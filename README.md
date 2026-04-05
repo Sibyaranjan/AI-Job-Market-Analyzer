@@ -74,3 +74,11 @@ Key findings from the Power BI dashboard (1.62M+ job postings, 216 countries):
 * Qualification Distribution: Fairly uniform across BBA, BA, BCA, M.Tech, MBA, PhD (~10% each)
 * Work Types: Full-time, Part-time, Contract, Intern, Temporary
 * Gender Preference: Male (539K), Both (538K), Female (538K) — near equal distribution
+
+  # 🔮 Future Enhancements
+
+* 🌐 Real-time job scraping with scheduled pipeline (Apache Airflow)
+* 📱 Mobile-friendly Streamlit UI
+* 🧠 LLM-powered resume rewriting suggestions
+* 📧 Job alert notifications via email
+* 🗂 Multi-language support for global markets
